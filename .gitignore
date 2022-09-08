@@ -1,2 +1,31 @@
-**/node_modules
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+
+# vscode
+.vscode
+node_modules
+.env
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
+
 **/.env
+**/node_modules
+
+
+node_modules
+.env
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
